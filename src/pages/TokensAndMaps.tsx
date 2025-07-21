@@ -195,7 +195,7 @@ const TokensAndMaps: React.FC = () => {
           id: 'prof-2',
           name: 'Professor de Artes',
           description: 'Professor dando aula pratica',
-          imagePath: '/src/assets/Marco.png',
+          imagePath: 'https://photos.app.goo.gl/RmLgn36mxauHPnLF9',
         },
         {
           id: 'prof-3',
