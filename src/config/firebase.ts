@@ -6,12 +6,13 @@ import { getFirestore } from 'firebase/firestore';
 const firebaseConfig = {
   // SUBSTITUA PELAS SUAS CONFIGURAÇÕES REAIS DO FIREBASE!
   // Siga os passos abaixo para obter suas configurações:
-  apiKey: "SUA_API_KEY_AQUI",
-  authDomain: "seu-projeto.firebaseapp.com",
-  projectId: "seu-projeto-id", 
-  storageBucket: "seu-projeto.appspot.com",
-  messagingSenderId: "123456789",
-  appId: "1:123456789:web:abc123def456"
+  apiKey: "AIzaSyC8aT5WPqilRDGkx9YCVbHU2Fbvs3kV1M8",
+  authDomain: "ordem-vocacional.firebaseapp.com",
+  projectId: "ordem-vocacional", 
+  storageBucket: "ordem-vocacional.firebasestorage.app",
+  messagingSenderId: "93352456087",
+  appId: "1:93352456087:web:6f66cbfb28d4544c2d9ed2",
+  measurementId: "G-NNS3FVMP7T"
 };
 
 // Initialize Firebase
